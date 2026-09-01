@@ -1,0 +1,2 @@
+packages:
+  - { name: "transport", chip: "T", desc: "Connection and privilege-escalation plugins: local, SSH and WinRM, with sudo, su and doas.", url: "https://github.com/go-remoteexec/transport", doc: "https://pkg.go.dev/github.com/go-remoteexec/transport" }
